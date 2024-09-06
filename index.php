@@ -1,1 +1,4 @@
-<?php echo 'hi'; ?>
+<?php echo 'hi';
+echo '<br>';
+echo 'welcome';
+?>
